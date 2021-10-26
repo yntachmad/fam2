@@ -1,2 +1,2 @@
-# fam2
+# fam
 Aplikasi FAM
